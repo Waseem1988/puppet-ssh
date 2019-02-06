@@ -37,7 +37,7 @@
 #
 # Author Name <author@domain.com>
 #
-# Copyright
+ Copyright
 # ---------
 #
 # Copyright 2018 Your name here, unless otherwise noted.
